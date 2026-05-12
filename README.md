@@ -28,9 +28,3 @@ Building interactive experiences and intelligent systems from scratch.
 
 ---
 
-### // github stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emreceliik&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emreceliik&layout=compact&theme=radical&hide_border=true" />
-</div>
