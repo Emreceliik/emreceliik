@@ -1,30 +1,41 @@
-# I'm Emre Celik
+# Emre Çelik
 
-**Game Developer · App Developer · AI Enthusiast**
+**Software and Computer Engineer**
 
-Building interactive experiences and intelligent systems from scratch.
+I am an outcome-focused Software and Computer Engineer with expertise in team leadership, full-stack/backend development, and game engineering[cite: 1, 2].
 
-![Game Dev](https://img.shields.io/badge/Game_Dev-C%23%20%7C%20Unity-7F77DD?style=flat-square&labelColor=EEEDFE)
-![AI/ML](https://img.shields.io/badge/AI_%2F_ML-PyTorch%20%7C%20ML--Agents-1D9E75?style=flat-square&labelColor=E1F5EE)
-![App Dev](https://img.shields.io/badge/App_Dev-.NET%20%7C%20MAUI-D85A30?style=flat-square&labelColor=FAECE7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/Emreceliik)
-[![Portfolio](https://img.shields.io/badge/itch.io-Portfolio-FA5C5C?style=flat-square&logo=itch.io)](https://emreceliik.itch.io)
+### About Me
 
+- Pursuing a Bachelor's Degree in Computer Engineering at Karadeniz Technical University (2021 - 2026)[cite: 3].
+- Working as a Software Engineer Intern at **GoWit Technology**, extending Go backend services (galgen, ent, PostgreSQL), configuring KrakenD API gateway endpoints, and building React/TypeScript interfaces with Vite, Tailwind CSS, and Apollo Client[cite: 1].
+- Developed game mechanics and algorithms at **Voodoo**, **Junius Tech**, and **Insanity Game**, including procedural city generation, dynamic difficulty scaling, and strategy systems[cite: 2].
+- Founded and managed **Enigma Team**, conceptualizing the "DepremAl" project and leading the team to the Teknofest finals[cite: 2].
+- Taught programming and emerging technologies (Python, C, C#, Arduino, VR/AR) at **NovalT Academy** while mentoring projects for TÜBİTAK competitions[cite: 1].
+- Served as Lead Game Programmer at **KTU CEC**, conducting courses on Blender, C#, and Unity Engine[cite: 3].
+
+### Technical Skills
+
+**Languages:**
+Go, C, C#, Python, TypeScript, JavaScript, HTML5, CSS3
+
+**Backend & Database:**
+PostgreSQL, GraphQL, Node.js, KrakenD, SpiceDB, ClickHouse
+
+**Frontend:**
+React, Tailwind CSS, Vite, Apollo Client
+
+**Game & Hardware:**
+Unity Engine, Blender, VR/AR Development, Arduino
+
+### GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emreceliik&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emreceliik&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
----
+### Contact
 
-### // what i do
-
-🎮 **Game Development** — Immersive gameplay, physics systems and world design with Unity & C++  
-📱 **App Development** — Cross-platform desktop & mobile apps with .NET, WPF and MAUI  
-🧠 **AI & Machine Learning** — Neural networks, generative models, AI integration into games and tools  
-
----
-
-### // tech stack
-
-`C#` `C++` `Python` `.NET` `Unity` `Unreal` `PyTorch` `ML-Agents` `WPF` `MAUI` `Blazor` `OpenCV`
-
----
-
+- **Email:** emre.celik.0052@gmail.com[cite: 1]
+- **LinkedIn:** [linkedin.com/in/emreceliik](https://linkedin.com/in/emreceliik/)[cite: 1]
+- **GitHub:** [github.com/Emreceliik](https://github.com/Emreceliik)[cite: 1]
